@@ -32,7 +32,7 @@ Department of the Interior                      |                               
 Department of the Treasury                      |                                             |
 Department of Transportation                    |                                             | Daniel Morgan                  
 Department of Veterans Affairs                  |                                             |
-Environmental Protection Agency                 |                                             |
+Environmental Protection Agency                 | Office of Environmental Information         | Robin A Thottungal
 General Services Administration                 |                                             | Kris Rowley
 National Aeronautics and Space Administration   |                                             |               
 National Science Foundation                     |                                             |
